@@ -1,0 +1,30 @@
+* {
+  font-family: 'Oswald', sans-serif;
+}
+
+.welcome {
+  text-align: center;
+}
+
+.welcome h1 {
+  font-size: 40px;
+}
+
+.welcome p {
+  font-size: 20px;
+}
+
+.option_list {
+  list-style-type: none;
+  text-align: center;
+}
+
+.option_list p:hover {
+  color: #DBE9EE;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+

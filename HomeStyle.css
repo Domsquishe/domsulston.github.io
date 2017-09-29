@@ -1,0 +1,41 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color:#F5ECD8;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: center;
+  list-style-type: none;
+}
+
+header {
+ /* all header items can be formatted from here */
+}
+
+.main {
+  /* all items after header contained in here */
+}
+
+.welcome {
+  text-align: center;
+}
+
+.welcome p {
+}
+
+.Article1 {
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: left;
+}

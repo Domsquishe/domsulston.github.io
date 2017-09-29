@@ -1,0 +1,29 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+  margin: 10 auto;
+  padding: 0 20px;
+  text-align: center;
+  list-style-type: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color:#F5ECD8;
+}
+
+.MainTitle {
+  text-align: center;
+}
+
+.home {
+  font-size: 18px;
+  font-weight: bold;
+  font-style: underline;
+}
